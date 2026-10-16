@@ -1,4 +1,4 @@
-# ITMS LED Bitmap & Bus Route Information Management Suite
+# ITMS LED Bitmap & Bus Route Information Management 
 **Containe Technologies Limited — Version 2.1.0**
 
 An industrial-grade, air-gapped, zero-build standalone web application for designing multi-lingual LED destination displays for public transport buses, managing bus route sequences and VIA stops, tuning Indic font binarization matrices (Pixel Studio), and exporting hardware-ready firmware binary bundles for embedded microcontrollers.
